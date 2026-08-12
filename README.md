@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Vaisakhan V B 👋
 
-<!--
-**vaisakhanvb/vaisakhanvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Knowledge Engineer | Ontologist | Taxonomist | Metadata Specialist**
 
-Here are some ideas to get you started:
+## About Me
+I am a Knowledge Engineer specializing in ontology engineering, taxonomy design, and metadata management. My experience spans life sciences, OTT media, and library and information science, where I work on organizing knowledge, improving data quality, and supporting semantic data discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+**Specialist, Content Strategy**
+Norstella (2024 – Present)
+
+**Information Scientist**
+ThinkAnalytics (2022 – 2024)
+
+**Library Intern**
+Indraprastha Institute of Information Technology Delhi (2021 – 2022)
+
+## Skills
+- Ontology Engineering
+- Taxonomy Development
+- Knowledge Graphs
+- Metadata Management
+- Controlled Vocabularies
+- Semantic Data Modeling
+- Information Architecture
+- Semantic Search
+- SKOS
+- OWL
+- RDF
+- SPARQL
+- Linked Data
+- Data Standardization
+
+## Tools
+- Synaptica Graphite
+- Protégé
+- Atlassian Tools
+
+## Education
+**Master of Library & Information Science**
+Tata Institute of Social Sciences
+
+**Bachelor of Arts in English Language & Literature**
+University of Calicut
